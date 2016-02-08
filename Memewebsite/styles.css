@@ -1,0 +1,61 @@
+.header {
+    background:lightblue;
+    text-align: center;
+    box-shadow: 10px 10px 5px #888888;
+    font-family: 'Bitter', serif;
+}
+.sidebar ul li a {
+    text-decoration: none;
+    font-size:25px;
+    color:black;
+    font-family: 'Bitter', serif;
+}
+.sidebar ul {
+    list-style-type: none;
+}
+.sidebar {
+    background-color:#00cc99;
+    box-shadow: 10px 10px 5px #888888;
+    float:left;
+    width:20%;
+}
+.siderbar:hover {
+    
+}
+.maincontent {
+    background-color:lightgreen;
+}
+body {
+    background-color:lightgray;
+}
+.row {
+    display:inline-block;
+    text-decoration: none;
+    list-style-type: none;
+}
+.row li img {
+    border: 5px solid black;
+}
+.row1 li img {
+    border: 5px solid black;
+}
+.row2 li img {
+    border: 5px solid black;
+}
+.row1 {
+    float:right;
+    text-decoration: none;
+    list-style-type: none; 
+    margin-right:650px;
+}
+.row2 {
+    float:right;
+    text-decoration: none;
+    list-style-type: none; 
+    margin-right:40px;
+}
+.information {
+    border: 5px black solid;
+    font-family: 'Bitter', serif;
+}
+
